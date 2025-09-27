@@ -1,4 +1,4 @@
-# Pong Deluxe — Sacrifices
+# Paddle Breaker
 
 A modern twist on the classic arcade game, Pong. This version includes enhanced graphics, multiple game modes, and a unique "sacrifice" mechanic.
 
