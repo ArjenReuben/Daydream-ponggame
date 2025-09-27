@@ -60,6 +60,7 @@ const THEMES = {
   charcoal: { bg1: "#222222", bg2: "#0b0b0b" },
   neon: { bg1: "#071827", bg2: "#001018" },
 };
+  document.getElementById('bgMusic').volume = 0.2; // Set volume to 20%
 let playerName = "Player";
 let chosenDifficulty = "normal";
 let chosenTheme = "classic";
